@@ -6,12 +6,12 @@ Very simple implementation of a Smart Contract for the registration of college g
 ## Features
 
 - The contract is deployed by the teacher, who is the only that can:
--- Set a new note
--- View requested revisions
+    - Set a new note
+    - View requested revisions
 
 - The students can:
--- see their note
--- request a grade review
+    - See their note
+    - Request a grade review
 
 
 ## Tech
